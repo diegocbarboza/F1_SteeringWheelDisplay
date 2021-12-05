@@ -11,7 +11,7 @@ To use it:
 
 Please keep in mind this is a small hobby project, so the code is not very optimized and it's possible that a lot of edge cases are not being threated. If you run into any issues, disconnect the Arduino and start the console application again. 
 
-This version is compatible only with F1 2020. I haven't bought F1 2021 yet, but if anyone wishes to send it to [me as a gift](https://steamcommunity.com/id/diegocbarboza/) , I could try adding support to it :)
+This version is compatible only with F1 2020.
 
 ## Components
 
